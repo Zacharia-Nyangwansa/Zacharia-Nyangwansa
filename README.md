@@ -1,11 +1,11 @@
-# Hi, I'm Zacharia Nyangwansa 👋  
+# Hi, I'm Zacharia Nyangwansa   
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Zacharia-Nyangwansa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/Zacharia-Nyangwansa?label=Followers&style=social" alt="followers"/>
 </p>
 
-💡 **Software Engineer | Full-Stack Developer | Systems Builder**  
+ **Software Engineer | Full-Stack Developer | Systems Builder**  
 
 I design and build **scalable, user-focused web applications** with a strong emphasis on clean architecture, performance, and maintainability.  
 
@@ -15,7 +15,7 @@ I design and build **scalable, user-focused web applications** with a strong emp
 
 ---
 
-## 🧠 Core Tech Stack  
+##  Core Tech Stack  
 
 **Frontend Engineering**  
 - React (TypeScript)  
@@ -33,24 +33,25 @@ I design and build **scalable, user-focused web applications** with a strong emp
 
 ---
 
-## 🚀 Current Focus  
+##  Current Focus  
 
-- 🔔 Architecting **event-driven notification systems**  
-- ⚙️ Improving **backend performance and scalability**  
-- 🧩 Building **end-to-end full-stack applications** with real-world use cases  
+-  Architecting **event-driven notification systems**  
+-  Improving **backend performance and scalability**  
+-  Building **end-to-end full-stack applications** with real-world use cases  
 
 ---
 
-## 📈 GitHub Insights  
+##  GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zacharia-Nyangwansa&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zacharia-Nyangwansa&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zacharia-Nyangwansa&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zacharia-Nyangwansa&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak  
+##  Contribution Streak  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Zacharia-Nyangwansa&theme=radical&hide_border=true"/>
@@ -58,13 +59,13 @@ I design and build **scalable, user-focused web applications** with a strong emp
 
 ---
 
-## ⚡ Activity Graph  
+##  Activity Graph  
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zacharia-Nyangwansa&theme=react-dark&hide_border=true)
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 - 🌍 Portfolio: https://zacharia-nyangwansa.vercel.app/  
 - 💼 LinkedIn: https://www.linkedin.com/in/zacharia-nyangwansa1/  
@@ -72,7 +73,7 @@ I design and build **scalable, user-focused web applications** with a strong emp
 
 ---
 
-## 🧩 Professional Approach  
+##  Professional Approach  
 
 - Write **clean, maintainable, and scalable code**  
 - Focus on **real-world problem solving**  
@@ -80,6 +81,6 @@ I design and build **scalable, user-focused web applications** with a strong emp
 
 ---
 
-## ⚡ Fun Fact  
+##  Fun Fact  
 
 I enjoy transforming complex business workflows into efficient, reliable software systems.
