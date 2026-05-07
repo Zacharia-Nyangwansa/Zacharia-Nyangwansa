@@ -9,9 +9,9 @@
 
 I design and build **scalable, user-focused web applications** with a strong emphasis on clean architecture, performance, and maintainability.  
 
-🎓 BSc. Computer Science — *The Catholic University of Eastern Africa*  
-🌍 Nairobi, Kenya  
-🚀 Currently building **real-time systems** and refining production-ready projects  
+ BSc. Computer Science — *The Catholic University of Eastern Africa*  
+ Nairobi, Kenya  
+ Currently building **real-time systems** and refining production-ready projects  
 
 ---
 
@@ -67,9 +67,8 @@ I design and build **scalable, user-focused web applications** with a strong emp
 
 ##  Connect With Me  
 
-- 🌍 Portfolio: https://zacharia-nyangwansa.vercel.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/zacharia-nyangwansa1/  
-- 📧 Email: zacharianyangwansa@gmail.com  
+-  Portfolio: https://zacharia-nyangwansa.vercel.app/  
+-  LinkedIn: https://www.linkedin.com/in/zacharia-nyangwansa1/  
 
 ---
 
