@@ -113,13 +113,13 @@ Software engineer based in **Nairobi, Kenya**, focused on turning complex workfl
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zacharia-Nyangwansa&theme=radical"
     height="200"
     alt="Contribution Summary"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
