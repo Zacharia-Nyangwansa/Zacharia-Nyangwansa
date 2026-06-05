@@ -156,6 +156,6 @@ Software engineer based in **Nairobi, Kenya**, focused on turning complex workfl
 
 <div align="center">
 
-*I enjoy transforming complex workflows into efficient, reliable software systems.*
+*I enjoy transforming complex workflows into efficient, reliable and scalable software systems.*
 
 </div>
