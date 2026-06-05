@@ -85,10 +85,13 @@ I design and build **scalable, user-focused web applications** with a strong emp
 
 ---
 
-##  Contribution Streak  
+## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zacharia-Nyangwansa&theme=radical&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=Zacharia-Nyangwansa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
