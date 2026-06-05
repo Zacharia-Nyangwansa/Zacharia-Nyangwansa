@@ -116,4 +116,4 @@ I design and build **scalable, user-focused web applications** with a strong emp
 
 ##  Fun Fact  
 
-I enjoy transforming complex business workflows into efficient, reliable software systems.
+I enjoy transforming complex workflows into efficient, reliable software systems.
