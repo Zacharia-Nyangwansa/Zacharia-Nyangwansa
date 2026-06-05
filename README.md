@@ -21,8 +21,7 @@ I design and build scalable, user-focused web applications with clean architectu
 
 Software engineer based in **Nairobi, Kenya**, focused on turning complex workflows into reliable, production-ready systems. I work across the full stack — from interface design and frontend architecture to backend APIs, databases, and deployment.
 
-- BSc. **Computer Science** — *The Catholic University of Eastern Africa* (2023–2025)
-- Diploma in **Information Technology** — *The Catholic University of Eastern Africa* (2020–2022)
+- BSc. **Computer Science** — *The Catholic University of Eastern Africa* 
 - Experience building products in **marketplace platforms**, **service booking systems**, and **real-time notification workflows**
 - Open to collaborations, internships, and full-time opportunities
 
