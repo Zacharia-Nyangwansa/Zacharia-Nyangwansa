@@ -115,8 +115,9 @@ Software engineer based in **Nairobi, Kenya**, focused on turning complex workfl
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Zacharia-Nyangwansa&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zacharia-Nyangwansa&theme=radical"
+    height="200"
+    alt="Contribution Summary"
   />
 </p>
 
