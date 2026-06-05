@@ -142,13 +142,13 @@ Software engineer based in **Nairobi, Kenya**, focused on turning complex workfl
 
 <p align="center">
   <a href="https://zacharia-nyangwansa.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0e75b6?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/_Portfolio-Visit_Site-0e75b6?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://github.com/Zacharia-Nyangwansa">
-    <img src="https://img.shields.io/badge/💻_GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/_GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/zacharia-nyangwansa1/">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
