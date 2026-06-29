@@ -112,10 +112,6 @@ Software engineer based in **Nairobi, Kenya**, focused on turning complex workfl
   />
 </p>
 
-##stats/streaks
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zacharia-Nyangwansa&show_icons=true&locale=en&layout=compact" alt="Zacharia-Nyangwansa" /></p>
-
-<p margin-top="1rem">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zacharia-Nyangwansa&show_icons=true&locale=en" alt="Zacharia-Nyangwansa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Zacharia-Nyangwansa&" alt="Zacharia-Nyangwansa" /></p>
 
